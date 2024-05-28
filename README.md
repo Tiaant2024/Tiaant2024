@@ -1,16 +1,19 @@
-### Hi there 👋
+### Tiago A. lima
 
-<!--
-**Tiaant2024/Tiaant2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-Prof. Química.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Prof. Tecnologia.
+
+- 🗞️Formado em Química.
+- 📎Mestre em Ciência de Materiais.
+- ⚔️Trabalho na Escola Tirapeli.
+- 🧑‍🔧Mecânico nas horas vagas.
+- ⚓Votuporanga-SP, Brasil.
+- 🧃Filosofia de vida "Não faça nada hoje que vc pode fazer amanhã!"
+
+![Professor](https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/12/vhcctpw.gif)
+ 
+
+![](https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/12/ku-medium.gif)
+
